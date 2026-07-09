@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oahu-meats-grass-fed-beef-oahu-services.onrender.com/sitemap.xml
